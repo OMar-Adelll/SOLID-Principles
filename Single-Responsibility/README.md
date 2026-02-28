@@ -47,18 +47,18 @@ Small focused classes can be reused in other parts of the project without modifi
 
 Instead of creating one class that:
 
-- Reads data  
-- Processes data  
-- Saves data  
+- Student class
+- GPA Calculator class
+- Student Printer class
 
 We create three separate classes:
 
-- `DataReader`  
-- `DataProcessor`  
-- `DataSaver`  
+- `student`  
+- `GPA_Calculator`  
+- `student_printer`  
 
 Each class has one clear responsibility.  
-If the saving logic changes, we only modify `DataSaver`.
+If the printing logic changes, we only modify `student_printer`.
 
 ---
 

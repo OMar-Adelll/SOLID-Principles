@@ -8,11 +8,11 @@ A professional repository demonstrating mastery of SOLID software design princip
 
 ## Overview
 
-- [Single Responsibility Principle (SRP)](./1-Single-Responsibility-SRP/README.md)
-- [Open/Closed Principle (OCP)](./2-Open-Closed-OCP/README.md)
-- [Liskov Substitution Principle (LSP)](./3-Liskov-Substitution-LSP/README.md)
-- [Interface Segregation Principle (ISP)](./4-Interface-Segregation-ISP/README.md)
-- [Dependency Inversion Principle (DIP)](./5-Dependency-Inversion-DIP/README.md) 
+- [Single Responsibility Principle (SRP)](./1-Single-Responsibility-SRP)
+- [Open/Closed Principle (OCP)](./2-Open-Closed-OCP)
+- [Liskov Substitution Principle (LSP)](./3-Liskov-Substitution-LSP)
+- [Interface Segregation Principle (ISP)](./4-Interface-Segregation-ISP)
+- [Dependency Inversion Principle (DIP)](./5-Dependency-Inversion-DIP) 
  
 ---
 

@@ -5,13 +5,18 @@ using namespace std;
 #define sz(x) (int)x.size()
 #define nl '\n'
 
+/*
+    The main idea of this principle is to invert the dependency.
+    Instead of high-level modules depending on low-level modules,
+    both should depend on abstractions.
+*/
+
 // Abstraction
 class DeliveryService {
 public:
   virtual void deliver() = 0;
   virtual ~DeliveryService() {}
 };
-
 
 // Low level modules
 class FedEx : public DeliveryService {

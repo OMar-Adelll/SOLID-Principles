@@ -3,9 +3,6 @@
 A professional repository demonstrating mastery of SOLID software design principles for clean, maintainable, and scalable object-oriented programming.
 
 ---
-
-## Overview
-
 ## Overview
 
 - [Single Responsibility Principle (SRP)](./1-Single-Responsibility-SRP)

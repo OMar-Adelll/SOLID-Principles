@@ -39,6 +39,6 @@ This repository demonstrates proficiency in **SOLID principles**, highlighting t
 ## How to Clone
 
 ```bash
-git clone https://github.com/your-username/SOLID-Principles.git
+git clone https://github.com/OMar-Adelll/SOLID-Principles.git
 ```
 

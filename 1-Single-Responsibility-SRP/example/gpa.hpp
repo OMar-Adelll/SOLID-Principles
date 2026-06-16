@@ -4,6 +4,8 @@
 #include <string>
 #include "student.hpp"
 
+// The goal of this class is calculate the gpa only
+
 class GPA_CALCULATOR
 {
 public:

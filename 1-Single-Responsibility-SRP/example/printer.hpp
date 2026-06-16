@@ -5,6 +5,8 @@
 #include <iostream>
 #include "student.hpp"
 
+// The goal of this class is printing information only
+
 class PRINTER
 {
 public:
